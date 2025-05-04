@@ -9,9 +9,9 @@ Hi, I'm Ayushi Upadhyay, an enthusiastic engineering student passionate about co
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushii1612&label=Profile%20views&color=0e75b6&style=flat" alt="aayushii1612" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Algorithms, and React.js**
+- 🌱 I’m currently learning **Data Structures and Algorithms, and MERN**
 
-- 💬 Ask me about **C, C++, Python, and Web Development**
+- 💬 Ask me about **C, C++, Python, Java, and Web Development**
 
 - 📫 How to reach me **aayushii1612@gmail.com**
 

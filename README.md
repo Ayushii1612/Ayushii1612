@@ -9,7 +9,7 @@ Hi, I'm Ayushi Upadhyay, an enthusiastic engineering student passionate about co
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushii1612&label=Profile%20views&color=0e75b6&style=flat" alt="aayushii1612" /> </p>
 
-- 🌱 Currently diving deep into Data Structures & Algorithms and mastering the MERN stack**
+- 🌱 Currently diving deep into Data Structures & Algorithms and mastering the MERN stack
 
 - 💬 Ask me about **C, C++, Python, Java, and Web Development**
 

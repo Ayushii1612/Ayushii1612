@@ -241,7 +241,7 @@ Contributed to the development of a real-time MERN stack application, delivering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushii1612&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushii1612&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&t=1" />
 
 </div>
 

@@ -228,10 +228,10 @@ Contributed to the development of a real-time MERN stack application, delivering
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushii1612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ayushii1612&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&count_private=true&cache_seconds=1800" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=Ayushii1612&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=8b5cf6&currStreakLabel=c9d1d9" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushii1612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayushii1612&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&cache_seconds=1800" width="48%"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Contributed to the development of a real-time MERN stack application, delivering
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushii1612&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&t=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushii1612&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title=-Programming,-Repositories,-Stars,-Followers" />
 
 </div>
 
